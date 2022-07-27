@@ -8,11 +8,15 @@
   <a href="https://discordapp.com/users/nekirilova#1158" style="margin-right:10px;"><img src="assets/iconfinder-discord-4661587_122459.ico" alt="discord link"></a>
   <a href="mailto:alenameteneva@gmail.com" style="margin-right:10px;"><img src="assets/gmail_icon-icons.com_62758.ico" alt="gmail link"></a>
 </div>
+
 <div align="center" style="margin-top: 10px;">
 <img src="https://komarev.com/ghpvc/?username=nekirilova&style=flat-square&color=blue" alt="views counter">
 </div>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif"style="margin-top: 30px;">
+  <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" style="margin-top: 30px;">
 </div>
-<h2 style="margin-top: 20px; margin-left: 40px;">About me:</h2>
+
+### :woman_technologist: About Me :
+I am a QA engineer from Ekaterinburg.
 
