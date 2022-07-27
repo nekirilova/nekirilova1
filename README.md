@@ -14,4 +14,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif"style="margin-top: 30px;">
 </div>
+<h2 style="margin-top: 20px; margin-left: 40px;">About me:</h2>
 
