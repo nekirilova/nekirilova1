@@ -11,3 +11,7 @@
 <div align="center" style="margin-top: 10px;">
 <img src="https://komarev.com/ghpvc/?username=nekirilova&style=flat-square&color=blue" alt="views counter">
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif"style="margin-top: 30px;">
+</div>
+
