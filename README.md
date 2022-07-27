@@ -8,11 +8,11 @@
   <a href="https://discordapp.com/users/nekirilova#1158" style="margin-right:10px;"><img src="assets/iconfinder-discord-4661587_122459.ico" alt="discord link"></a>
   <a href="mailto:alenameteneva@gmail.com" style="margin-right:10px;"><img src="assets/gmail_icon-icons.com_62758.ico" alt="gmail link"></a>
 </div>
-
+<p> </p>
 <div align="center" style="margin-top: 10px;">
 <img src="https://komarev.com/ghpvc/?username=nekirilova&style=flat-square&color=blue" alt="views counter">
 </div>
-
+<p> </p>
 <div align="center">
   <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" style="margin-top: 30px;">
 </div>
